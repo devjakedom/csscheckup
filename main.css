@@ -1,0 +1,32 @@
+.wrapper{
+    background: lightblue;
+    border: lightgreen;
+    border-style: groove;
+    border-spacing: 10px;
+}
+
+.list{
+    font-family: monospace;
+    width: 300px;
+    height: auto;
+    background: lightpink;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+}
+
+#id{
+    text-align: center;
+    font-family: fantasy;
+   
+}
+
+.pic img{
+    width: 450;
+    height: 300;
+    border: black;
+    border-width: 15px;
+
+}
